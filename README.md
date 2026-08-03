@@ -1,6 +1,8 @@
 # Simple-Multiplayer-Game-code
 This is a two-player game. There will be a square and a triangle on the screen. One player can change the position of the triangle with a small delay by simply left-clicking anywhere on the screen. The other player can move the square by using keyboard. The goal of the game is to catch the triangle.
 
+//Nur Alam Prodhan - 41230100943
+//Fatema Akter - 41230100894
 
 #include<stdio.h>
 #include<GL/glut.h>
